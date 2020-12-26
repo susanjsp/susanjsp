@@ -16,3 +16,5 @@
   - Bootstrap
   - CSS
   - HTML
+  - Heroku
+  - Netlify
