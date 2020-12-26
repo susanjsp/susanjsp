@@ -5,7 +5,7 @@
 -->
 
 - 🔭 I’m currently working on creating a website for the badminton community in my area
-- 🌱 I am currently participating in the #100DaysOfCode challenge and working hard to improve my javascript
+- 🌱 I'm currently participating in the #100DaysOfCode challenge and working hard to improve my javascript
 
 🛠 My toolbox includes:
   - Ruby
