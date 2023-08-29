@@ -7,13 +7,7 @@
 - 🔭 I’m currently learning react
 
 🛠 My toolbox includes:
-  - Ruby
-  - Ruby on Rails
-  - Jekyll
-  - SaSS
-  - JavaScript
+  - C#
+  - React, TypeScript, JavaScript
+  - Ruby, Ruby on Rails
   - Bootstrap
-  - CSS
-  - HTML
-  - Heroku
-  - Netlify
